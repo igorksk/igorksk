@@ -27,11 +27,6 @@
 
 ---
 
-📌 **Pinned Repositories:**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorksk&repo=yourproject&theme=radical)](https://github.com/igorksk/yourproject)
-
----
-
 ### 🎯 Fun Facts:
 - 🚀 Love experimenting with new technologies
 - 🎵 Enjoy music and gaming in my free time
