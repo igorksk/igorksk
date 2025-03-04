@@ -16,9 +16,10 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorksk&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorksk&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorksk&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorksk&theme=radical)
 
