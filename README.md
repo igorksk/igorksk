@@ -19,8 +19,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorksk&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorksk&show_icons=true&theme=radical)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorksk&theme=react-dark)
 
 ---
