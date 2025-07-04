@@ -65,6 +65,12 @@
 - [Dir Compare 2](https://github.com/igorksk/DirCompare2) 
   *A command-line utility designed for efficient comparison of two Windows directories.*
 
+- [Algorithm Tasks Solution](https://github.com/igorksk/AlgorithmTasksSolution)
+  *A collection of small C# projects solving various algorithmic problems, grouped into one Visual Studio solution.*
+
+- [Linq Task Solution](https://github.com/igorksk/LinqTaskSolution)
+  *A collection of LINQ tasks and solutions in C#, designed to practice and demonstrate powerful data querying techniques with real-world examples.*
+
 ---
 
 ### 💻 Frontend
@@ -79,12 +85,8 @@
 
 ### 🐍 Python
 
-- [Data Analysis Scripts](https://github.com/your-username/data-analysis)  
-  *Pandas and Matplotlib notebooks.*
-
-- [FastAPI Backend](https://github.com/your-username/fastapi-backend)  
-  *REST API using FastAPI.*
-
+- [Python Tasks](https://github.com/igorksk/PythonTasks) 
+  *Python tasks from book: "Python Programming with Examples and Problems" by Alexey Vasiliev, 2021.*
 
 ---
 
