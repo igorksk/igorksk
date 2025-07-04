@@ -45,6 +45,49 @@
 
 ---
 
+## 🚀 My Projects
+
+### 🧩 Full Stack
+
+- [Project Name](https://github.com/your-username/project-repo)  
+  *Brief description of what it does.*
+
+- [Another Full Stack App](https://github.com/your-username/another-repo)  
+  *Description here.*
+
+---
+
+### ⚙️ .NET
+
+- [Money Box](https://github.com/igorksk/MoneyBox)  
+  *A simple C# console app to calculate how long it will take to save up for a goal based on an initial amount, target amount, and monthly deposit.*
+
+- [Dir Compare 2](https://github.com/igorksk/DirCompare2) 
+  *A command-line utility designed for efficient comparison of two Windows directories.*
+
+---
+
+### 💻 Frontend
+
+- [Simple login app](https://github.com/igorksk/simple-login-app)  
+  *Login App using Formik.*
+
+- [React Router app](https://github.com/igorksk/my-router-app)  
+  *React Router app.*
+
+---
+
+### 🐍 Python
+
+- [Data Analysis Scripts](https://github.com/your-username/data-analysis)  
+  *Pandas and Matplotlib notebooks.*
+
+- [FastAPI Backend](https://github.com/your-username/fastapi-backend)  
+  *REST API using FastAPI.*
+
+
+---
+
 ### 🎯 Fun Facts
 - 🎮 Enjoy gaming in my free time
 - 🎵 Music lover and tech tinkerer
