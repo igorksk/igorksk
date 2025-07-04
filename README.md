@@ -62,11 +62,11 @@
 
 ### ⚙️ .NET
 
-- [Money Box](https://github.com/igorksk/MoneyBox)  
-  *A simple C# console app to calculate how long it will take to save up for a goal based on an initial amount, target amount, and monthly deposit.*
-
 - [Dir Compare 2](https://github.com/igorksk/DirCompare2) 
   *A command-line utility designed for efficient comparison of two Windows directories.*
+  
+- [Money Box](https://github.com/igorksk/MoneyBox)  
+  *A simple C# console app to calculate how long it will take to save up for a goal based on an initial amount, target amount, and monthly deposit.*
 
 - [Algorithm Tasks Solution](https://github.com/igorksk/AlgorithmTasksSolution)
   *A collection of small C# projects solving various algorithmic problems, grouped into one Visual Studio solution.*
