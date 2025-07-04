@@ -49,11 +49,14 @@
 
 ### 🧩 Full Stack
 
-- [Project Name](https://github.com/your-username/project-repo)  
-  *Brief description of what it does.*
+- [Search App](https://github.com/igorksk/SearchApp)  
+  *Modern Search App: React + TS UI, Axios API Calls, ASP.NET Core Minimal API, Swagger Docs, AutoMapper, Debounced Search, Dockerized for Deployment.*
 
-- [Another Full Stack App](https://github.com/your-username/another-repo)  
-  *Description here.*
+- [Customers App](https://github.com/igorksk/CustomersApp)
+  *Full-stack application for managing customer data, built with ASP.NET Core 8 (backend) and React/TypeScript/Ant Design (frontend). Deployed using Docker.*
+
+- [Hotel Booking App](https://github.com/igorksk/HotelBookingApp) 
+  *Hotel booking app built with ASP.NET Core (backend) and React + TypeScript (frontend). Uses an in-memory database for quick testing and Docker for easy deployment.*
 
 ---
 
@@ -70,6 +73,9 @@
 
 - [Linq Task Solution](https://github.com/igorksk/LinqTaskSolution)
   *A collection of LINQ tasks and solutions in C#, designed to practice and demonstrate powerful data querying techniques with real-world examples.*
+
+- [Calculator MVC](https://github.com/igorksk/CalculatorMVC)
+  *ASP.NET Core MVC Calculator.*
 
 ---
 
