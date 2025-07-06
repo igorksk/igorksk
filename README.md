@@ -50,10 +50,22 @@
 ### 🧩 Full Stack
 
 - [Search App](https://github.com/igorksk/SearchApp)  
-  *Modern Search App previously packaged as a Dockerized monorepo. Now maintained as two separate repositories hosted on Azure: a React + TypeScript frontend and an ASP.NET Core Minimal API backend. This repository contains the older Docker version, which is no longer updated.*
+  *Modern Search App previously packaged as a Dockerized monorepo. Now maintained as two separate repositories hosted on Azure:
+
+  [Frontend Source] (https://github.com/igorksk/SearchApp-frontend-az)
+
+  [Backend Source] (https://github.com/igorksk/SearchApp-backend-az)
+
+  This repository contains the older Docker version, which is no longer updated.*
 
 - [Customers App](https://github.com/igorksk/CustomersApp)
-  *Full-stack customer management application originally built as a Dockerized solution. Currently maintained as separate Azure-hosted frontend and backend repositories (React/TypeScript/Ant Design frontend and ASP.NET Core 8 backend). This repository is archived and no longer updated.*
+  *Full-stack customer management application originally built as a Dockerized solution. Now maintained as two separate Azure-hosted repositories:
+
+  [Frontend Source] (https://github.com/igorksk/CustomersApp-frontend-az)
+
+  [Backend Source] (https://github.com/igorksk/CustomersApp-backend-az)
+  
+  This repository is archived and no longer updated.*
 
 - [Hotel Booking App](https://github.com/igorksk/HotelBookingApp) 
   *Hotel booking app built with ASP.NET Core (backend) and React + TypeScript (frontend). Uses an in-memory database for quick testing and Docker for easy deployment.*
