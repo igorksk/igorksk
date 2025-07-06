@@ -50,10 +50,10 @@
 ### 🧩 Full Stack
 
 - [Search App](https://github.com/igorksk/SearchApp)  
-  *Modern Search App: React + TS UI, Axios API Calls, ASP.NET Core Minimal API, Swagger Docs, AutoMapper, Debounced Search, Dockerized for Deployment.*
+  *Modern Search App previously packaged as a Dockerized monorepo. Now maintained as two separate repositories hosted on Azure: a React + TypeScript frontend and an ASP.NET Core Minimal API backend. This repository contains the older Docker version, which is no longer updated.*
 
 - [Customers App](https://github.com/igorksk/CustomersApp)
-  *Full-stack application for managing customer data, built with ASP.NET Core 8 (backend) and React/TypeScript/Ant Design (frontend). Deployed using Docker.*
+  *Full-stack customer management application originally built as a Dockerized solution. Currently maintained as separate Azure-hosted frontend and backend repositories (React/TypeScript/Ant Design frontend and ASP.NET Core 8 backend). This repository is archived and no longer updated.*
 
 - [Hotel Booking App](https://github.com/igorksk/HotelBookingApp) 
   *Hotel booking app built with ASP.NET Core (backend) and React + TypeScript (frontend). Uses an in-memory database for quick testing and Docker for easy deployment.*
