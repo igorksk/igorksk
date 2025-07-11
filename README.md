@@ -80,6 +80,9 @@
 - [Money Box](https://github.com/igorksk/MoneyBox)  
   *A simple C# console app to calculate how long it will take to save up for a goal based on an initial amount, target amount, and monthly deposit.*
 
+- [Laakmann Book Tasks C Sharp](https://github.com/igorksk/LaakmannBookTasksCSharp)
+  *Solutions to coding problems from Cracking the Coding Interview (6th Edition) by Gayle Laakmann McDowell.*
+
 - [Algorithm Tasks Solution](https://github.com/igorksk/AlgorithmTasksSolution)
   *A collection of small C# projects solving various algorithmic problems, grouped into one Visual Studio solution.*
 
