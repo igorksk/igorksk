@@ -109,6 +109,9 @@
 - [Python Tasks](https://github.com/igorksk/PythonTasks) 
   *Python tasks from book: "Python Programming with Examples and Problems" by Alexey Vasiliev, 2021.*
 
+- [Laakmann Book Tasks Python](https://github.com/igorksk/LaakmannBookTasksPython)
+  *Solutions to coding problems from Cracking the Coding Interview (6th Edition) by Gayle Laakmann McDowell.*
+
 ---
 
 ### 🎯 Fun Facts
