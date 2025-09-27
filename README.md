@@ -6,7 +6,7 @@
 
 ### 🧭 About Me
 🔹 Passionate about coding and building innovative projects  
-🔹 Specializing in **C#, .NET, ASP.NET Core, JavaScript, TypeScript, React, SQL Server, Azure, Cosmos DB, Python**  
+🔹 Specializing in **C#, .NET, ASP.NET Core, JavaScript, TypeScript, React, SQL Server, Azure, Python**  
 🔹 Enjoy collaborating on open-source and sharing knowledge  
 
 ---
@@ -21,7 +21,6 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=azurecosmosdb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
