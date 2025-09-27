@@ -6,7 +6,7 @@
 
 ### 🧭 About Me
 🔹 Passionate about coding and building innovative projects  
-🔹 Specializing in **C#, .NET, ASP.NET Core, JavaScript, TypeScript, React, SQL Server, Azure, Python**  
+🔹 Specializing in **C#, .NET, ASP.NET Core, JavaScript, TypeScript, React, SQL Server, Azure, Docker, Python**  
 🔹 Enjoy collaborating on open-source and sharing knowledge  
 
 ---
